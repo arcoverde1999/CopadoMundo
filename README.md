@@ -12,9 +12,11 @@ Foi utilizado o método hierárquico de agrupamento, onde não é necessário sa
 
 
 ### Observa-se 4 grupos com algumas particularidades:
+<p align="justify">
 Grupo 1: Times com melhor desempenho na Libertadores.<br><br>
 Grupo 2 e 3: Times que ocuparam a última colocação na fase de grupos. A diferença entre o grupo 2 e 3, mesmo com a característica de ocuparem a última colocação, é que o grupo 2 é formado pelas duas equipes com pior desempenho na fase de grupos.<br><br>
 Grupo 4: Demais times na competição (Poderia analisar algum particularidades nesse grupo, mas cabe a outro estudo).<br><br>
+</p>
 <div>
     
 <div align="center">
