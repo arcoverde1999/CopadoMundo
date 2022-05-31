@@ -14,10 +14,14 @@ Grupo 2 e 3: Times que ocuparam a última colocação na fase de grupos. A difer
 Grupo 4: Demais times da competição (Poderia analisar algum particularidades nesse grupo, mas cabe a outro estudo).
 </p> 
 <div>
+    
+ ![alt text](https://raw.githubusercontent.com/asantos20//Clusters.png)
 
+<!--
 div class="Clusters" align="center">
 <picture>
     <img src="https://raw.githubusercontent.com/asantos20/README/main/Clusters.png" alt="Alan" width="100%"/>
 </picture>
     <hr size=0.5 align="center" width=79.2% >
 </div>
+-->
