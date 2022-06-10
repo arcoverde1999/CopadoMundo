@@ -49,3 +49,14 @@ Grupo 5: É o grupo das Seleções que tiveram desempenho conservador (times bem
 <p align="justify">
     O agrupamento k-means é um método de segregar em torno de centros (centroides) diversos dados, criando o que analogamente na química chamamos de clustering que gera o efeito de particionar n observações dentre k grupos onde cada observação pertence ao grupo mais próximo da média. Isso resulta em uma divisão do espaço de dados em um Diagrama de Voronoi.
 </p> 
+
+### Definindo a quantidade de "k" grupos
+    
+<p align="justify">
+    Foi determinado uma quantidade ótima de grupos a partir da largura média da silhueta. Na Figura, é possível observar que o número optimizado de Clusters determinado é de 6, entretanto, se utilizar 5 grupos, a distância não é grande, o que nos leva a selecionar esse número de "k".
+</p>   
+<div>
+    
+<div align="center">
+<img src="https://user-images.githubusercontent.com/54998262/173145661-5afd447f-5878-4bc9-9cad-c88e68a2d892.png" width="500px" />
+</div>
