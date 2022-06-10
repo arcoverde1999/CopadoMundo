@@ -18,17 +18,25 @@ Foi utilizado o método hierárquico de agrupamento, onde não é necessário sa
 </p> 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61093881/171075398-c9b4470c-14d1-4b73-941e-51151b5e7346.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/54998262/173140787-991852e6-3013-4e43-b0d5-3fdb36375057.png" width="400px" />
 </div>
-    
-### Observa-se 4 grupos com algumas particularidades:
+
+### Análise de Agrupamento   
+
 <p align="justify">
-Grupo 1: Times com melhor desempenho na Libertadores.<br><br>
-Grupo 2 e 3: Times que ocuparam a última colocação na fase de grupos. A diferença entre o grupo 2 e 3, mesmo com a característica de ocuparem a última colocação, é que o grupo 2 é formado pelas duas equipes com pior desempenho na fase de grupos.<br><br>
-Grupo 4: Demais times na competição (Poderia analisar algum particularidades nesse grupo, mas cabe a outro estudo).<br><br>
+    Posteriormente, foi aplicado a Distância Euclidiana para verificar a menor distância entre dois pontos, provada pelo Teorema de Pitagoras. A partir da Correlação Cofenética (mede o grau de preservação das distâncias emparelhadas pelo dendrograma resultante do agrupamento em relação às distâncias originais). Para este caso, a Ligação Média foi utilizada.
+</p>     
+    
+### Observa-se 5 grupos com algumas particularidades:
+<p align="justify">
+Grupo 1: Alemanha de 1954, sendo a seleção campeã com maior média de Gols Feitos em uma única edição (25 Gols em 6 Jogos) e também a maior média de Gols Sofridos em uma única edição (14 Gols em 6 Jogos) - Inclusive uma das maiores goleadas sofridas pela Alemanha em Copas - 8x3 para a Hungria de Puskás.<br><br>
+Grupo 2: Seleções que venceram a Copa como Mandante - Uruguai de 1930, Itália de 1934, Inglaterra de 1966, Alemanha de 1974, Argentina de 1978, e França de 1998.<br><br>
+Grupo 3: É o grupo dos Bicampeões. Seleções experientes que tiveram um bom desempenho no bicampeonato.<br><br>
+Grupo 4: É o grupo das Seleções que tiveram desempenho espetacular, sofrendo poucos gols, fazendo muitos gols (incluindo com Aproveitamento de 100% - Brasil de 1970 e 2002).<br><br>
+Grupo 5: É o grupo das Seleções que tiveram desempenho conservador (times bem mais defensivos), que se notabilizaram por fazer poucos gols porém que também sofreram poucos gols (Espanha de 2010 é a seleção campeã com o pior ataque e a melhor defesa das Copas).
 </p>
 <div>
     
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61093881/171075398-c9b4470c-14d1-4b73-941e-51151b5e7346.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/54998262/173144033-58de7d5d-0f89-48a5-b776-3881f0e1d942.png" width="600px" />
 </div>
