@@ -1,16 +1,26 @@
-# Libertadores 2022 - Fase de Grupos
+# Campeões da Copa do Mundo
 ## Análise de Agrupamentos (Clusters)
 
 
 
 <div class="conteudo" style="border-box: none">
 <p align="justify">
-    A análise de agrupamentos (clusters) é uma técnica multivariada que permite separar elementos  similares no mesmo grupo, de modo que os elementos alocados em determinado grupo sejam difere de elementos em outros grupos.
-Realizei a coleta dos dados da fase de grupo da Libertadores 2022 afim de verificar se haveria alguma semelhança entre as 32 equipes na disputa.
-Foi utilizado o método hierárquico de agrupamento, onde não é necessário saber o número de grupos.
+    Utilizando o trabalho de "Libertadores 2022 - Fase de Grupos" como inspiração, foi analisado o desempenho das seleções campeãs da Copa do Mundo.
+Foi utilizado o método hierárquico de agrupamento, onde não é necessário saber o número de grupos. As variáveis utilizadas neste trabalho foram: Pontos Conquistados, Aproveitamento, Gols Feitos, Gols Sofridos, Apoio (Média de Público) e Fator Casa (se o campeão foi mandante).
 </p> 
 
+### Análise de Correlação
 
+<div class="conteudo" style="border-box: none">
+<p align="justify">
+    Inicialmente, foi analisado a correlação entre as variáveis selecionadas. De cara, observa-se que há uma correlação positiva forte entre Gols Feitos e Gols Sofridos, isto é, Seleções que fazem muitos gols, sofrem muitos gols (Seleções com um jogo mais ofensivo). Seleções com maior Apoio do Público conquistam mais pontos (vencem mais).<br><br>
+    Seleções da Casa possuem desempenho ofensivo menor e sofrem poucos gols. Por consequência (e obviedade), Seleções da Casa possuem maior Apoio do Público. Apoio do Público tem uma correlação positiva fraca com Gols Feitos, ou seja, quanto mais Gols Feitos, melhor o Aproveitamento.
+</p> 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/61093881/171075398-c9b4470c-14d1-4b73-941e-51151b5e7346.png" width="600px" />
+</div>
+    
 ### Observa-se 4 grupos com algumas particularidades:
 <p align="justify">
 Grupo 1: Times com melhor desempenho na Libertadores.<br><br>
