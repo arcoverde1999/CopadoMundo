@@ -60,3 +60,19 @@ Grupo 5: É o grupo das Seleções que tiveram desempenho conservador (times bem
 <div align="center">
 <img src="https://user-images.githubusercontent.com/54998262/173145661-5afd447f-5878-4bc9-9cad-c88e68a2d892.png" width="500px" />
 </div>
+
+### Cluster Plot
+
+### Observa-se 5 grupos com algumas particularidades:
+<p align="justify">
+Grupo 1: Grupo formado pelas Seleções Bicampeãs. Na Silhueta também é possível observar Argentina de 1986 e França de 2018 (pertencentes ao Grupo 4 e que foram bicampeãs nestas edições).<br><br>
+Grupo 2: Seleções que venceram a Copa como Mandante - Uruguai de 1930, Itália de 1934, Inglaterra de 1966, Alemanha de 1974, Argentina de 1978, e França de 1998.<br><br>
+Grupo 3: Alemanha de 1954, sendo a seleção campeã com maior média de Gols Feitos em uma única edição (25 Gols em 6 Jogos) e também a maior média de Gols Sofridos em uma única edição (14 Gols em 6 Jogos) - Inclusive uma das maiores goleadas sofridas pela Alemanha em Copas - 8x3 para a Hungria de Puskás.<br><br>
+Grupo 4: É o grupo das Seleções que tiveram desempenho espetacular, sofrendo poucos gols, fazendo muitos gols (incluindo com Aproveitamento de 100% - Brasil de 1970 e 2002).<br><br>
+Grupo 5: É o grupo das Seleções que tiveram desempenho conservador (times bem mais defensivos), que se notabilizaram por fazer poucos gols porém que também sofreram poucos gols (Espanha de 2010 é a seleção campeã com o pior ataque e a melhor defesa das Copas). Na Silhueta também é possível observar várias outras Seleções que tiveram desempenho mais conservador mas que pertencem aos outros grupos.
+</p>
+<div>
+    
+<div align="center">
+<img src="https://user-images.githubusercontent.com/54998262/173146887-8b65e18e-9b92-45e1-80cd-c4827b528ba4.png" width="600px" />
+</div>
