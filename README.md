@@ -40,3 +40,12 @@ Grupo 5: É o grupo das Seleções que tiveram desempenho conservador (times bem
 <div align="center">
 <img src="https://user-images.githubusercontent.com/54998262/173144033-58de7d5d-0f89-48a5-b776-3881f0e1d942.png" width="600px" />
 </div>
+
+## Método K-means
+
+
+
+<div class="conteudo" style="border-box: none">
+<p align="justify">
+    O agrupamento k-means é um método de segregar em torno de centros (centroides) diversos dados, criando o que analogamente na química chamamos de clustering que gera o efeito de particionar n observações dentre k grupos onde cada observação pertence ao grupo mais próximo da média. Isso resulta em uma divisão do espaço de dados em um Diagrama de Voronoi.
+</p> 
